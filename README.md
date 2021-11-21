@@ -10,10 +10,10 @@ https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognit
 # Dependencies
 ---
 
-cmake
-dlib
-face-recognition
-numpy
+cmake,
+dlib,
+face-recognition,
+numpy,
 opencv-python
 
 # Steps
